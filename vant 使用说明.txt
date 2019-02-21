@@ -1,0 +1,25 @@
+
+vue-cli  init webpack projectname
+
+npm i vant -S 
+
+引入 vant :
+
+import Vant from 'vant';
+import 'vant/lib/index.css';
+
+Vue.use(Vant);
+
+
+引入 less :
+
+npm install less less-loader --save-dev
+
+
+webpack.base.conf.js: module > rules > 增加如下：
+ 
+
+   {
+        test: /\.less$/,
+        loader: "style-loader!css-loader!less-loader"
+      },
