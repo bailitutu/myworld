@@ -2,16 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896d839c-c472-408f-a90b-709f94fd9eed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/PC/common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/mobile/common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/common/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/common/rem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/封装的js/ajax.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/封装的js/axios.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/操作字符串相关/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/操作数组的方法合集/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信H5支付.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/layui多选下拉框/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/layui多选下拉框/layui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/img/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/js/jquery-1.11.1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/js/jquery.qrcode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/js/qrcode.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/二维码的生成/js/utf.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/css/share.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/b1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/b2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/b3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/s1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/s2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/images/s3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/js/base.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/js/jquery-1.10.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/case/放大镜/js/jquery.jqzoom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo4.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo5.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/ES6/demo7.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery封装模板/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/fastclick.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/jquery-weui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/swiper-4.2.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/weui.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/常用外部js/zepto.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/echarts使用方法/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/gulp使用方法/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/webpack使用方法/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/常用cmd命令/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/微信公众号开发流程/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/微信调用扫一扫功能/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/ap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/demo_get.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/demo_post.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/pay.htm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/微信中使用支付宝支付的方案示例.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/百度地图基本使用/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/面试题/test1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/angular-ionic/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/react-amazeui-mobile/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/react-amazeui-pc/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/react-antd-admin/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/react-antd-pc/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/vue-elementui-admin/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/vue-elementui-pc/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/vue-iviewui-pc/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/vue-vant-mobile/说明.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/templates/vue-weui/说明.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/mobile/common.css" afterPath="$PROJECT_DIR$/css/mobile/common.css" />
+      <change beforePath="$PROJECT_DIR$/js/common/rem.js" afterPath="$PROJECT_DIR$/js/common/rem.js" />
+      <change beforePath="$PROJECT_DIR$/other/支付相关/微信公众号支付.js" afterPath="$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.css" />
+      <change beforePath="$PROJECT_DIR$/vant 使用说明.txt" afterPath="$PROJECT_DIR$/vant 使用说明.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,28 +79,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/操作数组的方法合集/index.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/other/微信调用扫一扫功能/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="325">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/common/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/PC/common.css">
+      <file leaf-file-name="demo7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/ES6/demo7.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -55,8 +99,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/mobile/common.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/other/百度地图基本使用/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -65,8 +109,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/操作字符串相关/index.js">
+      <file leaf-file-name="utf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/二维码的生成/js/utf.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -75,48 +119,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/封装的js/ajax.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/layui多选下拉框/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="750">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="微信H5支付.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other/支付相关/微信H5支付.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/放大镜/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#969#973#1" expanded="true" />
+                <element signature="e#1010#1014#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/放大镜/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-375">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="微信公众号支付.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other/支付相关/微信公众号支付.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rem.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/common/rem.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="axios.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/封装的js/axios.js">
+      <file leaf-file-name="base.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/放大镜/js/base.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -132,6 +170,7 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -150,6 +189,18 @@
         <option value="$PROJECT_DIR$/js/common/rem.js" />
         <option value="$PROJECT_DIR$/other/支付相关/微信H5支付.js" />
         <option value="$PROJECT_DIR$/other/支付相关/微信公众号支付.js" />
+        <option value="$PROJECT_DIR$/vant 使用说明.txt" />
+        <option value="$PROJECT_DIR$/other/echarts使用方法/index.html" />
+        <option value="$PROJECT_DIR$/other/gulp使用方法/index.js" />
+        <option value="$PROJECT_DIR$/other/webpack使用方法/index.js" />
+        <option value="$PROJECT_DIR$/other/微信公众号开发流程/index.js" />
+        <option value="$PROJECT_DIR$/other/面试题/test1.js" />
+        <option value="$PROJECT_DIR$/js/jquery封装模板/index.js" />
+        <option value="$PROJECT_DIR$/other/微信调用扫一扫功能/index.html" />
+        <option value="$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.css" />
+        <option value="$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.min.js" />
+        <option value="$PROJECT_DIR$/case/layui多选下拉框/index.html" />
+        <option value="$PROJECT_DIR$/case/放大镜/index.html" />
       </list>
     </option>
   </component>
@@ -202,26 +253,6 @@
               <item name="myworld" type="462c0819:PsiDirectoryNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworld" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworld" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworld" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworld" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,11 +267,20 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\tzl\笔记\myworld\css\mini" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\tzl\笔记\myworld\css\mobile" />
+      <recent name="E:\tzl\笔记\myworld\js\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\tzl\笔记\myworld\case\放大镜\css" />
+      <recent name="E:\tzl\笔记\myworld\case\放大镜\images" />
+      <recent name="E:\tzl\笔记\myworld\case\放大镜\js" />
+      <recent name="E:\tzl\笔记\myworld\case\layui多选下拉框" />
+      <recent name="E:\tzl\笔记\myworld\case" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,17 +308,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550749411600</updated>
-      <workItem from="1550749413521" duration="2347000" />
+      <workItem from="1550749413521" duration="5783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2347000" />
+    <option name="totallyTimeSpent" value="5783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19589257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19589257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -375,6 +416,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vant 使用说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/echarts使用方法/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/gulp使用方法/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/webpack使用方法/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/支付相关/微信公众号支付宝支付/alipay_in_weixin_demo/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/other/支付相关/微信公众号支付.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -391,11 +472,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/common/rem.js">
+    <entry file="file://$PROJECT_DIR$/other/微信公众号开发流程/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/面试题/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/angular-ionic/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/react-amazeui-mobile/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/react-amazeui-pc/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/react-antd-admin/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/react-antd-pc/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vue-elementui-admin/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vue-elementui-pc/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vue-iviewui-pc/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vue-vant-mobile/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/vue-weui/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/常用外部js/jquery-weui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/common/rem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/常用外部js/swiper-4.2.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery封装模板/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <marker date="1550753371340" expanded="true" signature="1689:1888" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/常用外部js/zepto.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/常用cmd命令/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/常用外部js/weui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/微信调用扫一扫功能/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ES6/demo7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/百度地图基本使用/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/二维码的生成/js/utf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <element signature="e#13871#17716#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/layui多选下拉框/formSelects-v4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34178" lean-forward="false" selection-start-line="0" selection-start-column="34178" selection-end-line="0" selection-end-column="34178" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/layui多选下拉框/layui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="44" lean-forward="true" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/layui多选下拉框/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/放大镜/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/放大镜/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/放大镜/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#969#973#1" expanded="true" />
+            <element signature="e#1010#1014#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,9 +1,8 @@
-
 vue-cli  init webpack projectname
 
-npm i vant -S 
+npm i vant -S
 
-ÒýÈë vant :
+ï¿½ï¿½ï¿½ï¿½ vant :
 
 import Vant from 'vant';
 import 'vant/lib/index.css';
@@ -11,13 +10,13 @@ import 'vant/lib/index.css';
 Vue.use(Vant);
 
 
-ÒýÈë less :
+ï¿½ï¿½ï¿½ï¿½ less :
 
 npm install less less-loader --save-dev
 
 
-webpack.base.conf.js: module > rules > Ôö¼ÓÈçÏÂ£º
- 
+webpack.base.conf.js: module > rules > ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½
+
 
    {
         test: /\.less$/,

@@ -2,9 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
 </head>
 <body>
-$END$
+
+
+<!--//1.下载formSelects-v4-->
+        <!--官方文档-- https://hnzzmsf.github.io/example/example_v4.html  -->
+<!--//然后引入formSelects.css-->
+<link rel="stylesheet" href="formSelects-v4.css" />
+
+<!--//2.模块化使用-->
+<script src="layui.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    //全局定义一次, 加载formSelects
+    layui.config({
+        // base: '../src/' //此处路径请自行处理, 可以使用绝对路径
+    }).extend({
+        formSelects: 'formSelects-v4'
+    });
+    //加载模块
+    layui.use(['jquery', 'formSelects'], function(){
+        var formSelects = layui.formSelects;
+
+    });
+</script>
+
+<!--//3.非模块化使用-->
+<script src="layui.all.js" type="text/javascript" charset="utf-8"></script>
+<script src="formSelects-v4.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+    var formSelects = layui.formSelects;
+
+</script>
+
 </body>
 </html>
