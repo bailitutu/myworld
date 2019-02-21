@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>let</title>
+</head>
+<body>
+
+
+<script>
+
+    /*let 命令：
+    1.块级作用域内有效。
+    2.不存在变量提升：先声明后使用，否则报错
+    3.存在暂时性死区：在块级作用域内后绑定了变量，在此之前使用了就会报错；
+    4.let不允许在相同作用域内，重复声明同一个变量。
+    */
+
+    /*
+    1：块级作用域内有效
+    {
+    let a = 10;
+    var b = 1;
+    }
+
+    a // ReferenceError: a is not defined.
+    b // 1*/
+
+
+ /*  // 2：不存在变量提升
+    // var 的情况
+    console.log(foo); // 输出undefined
+    var foo = 2;
+
+    // let 的情况
+    console.log(bar); // 报错ReferenceError
+    let bar = 2;*/
+
+/*   // 3：存在暂时性死区
+    var tmp = 123;
+
+    if (true) {
+        tmp = 'abc'; // ReferenceError
+        let tmp;
+    }*/
+
+    // 4.let不允许在相同作用域内，重复声明同一个变量。
+/*    // 报错
+    function func() {
+        let a = 10;
+        var a = 1;
+    }
+
+    // 报错
+    function func() {
+        let a = 10;
+        let a = 1;
+    }*/
+
+
+/*    // 5.不能在函数内部重新声明参数。
+    function func(arg) {
+        let arg; // 报错
+    }
+
+    function func(arg) {
+        {
+            let arg; // 不报错
+        }
+    }*/
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <title>医院地理信息</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        html,body{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .mapContent{
+            width: 100%;
+            height: 100%;
+            border:1px solid red;
+        }
+
+        .search_item{
+            position: absolute;
+            top:20px;
+            left: 20px;
+            z-index: 100;
+            width:300px;
+            height:50px;
+            background: orange;
+        }
+        .search_item .search_input{
+            width: 200px;
+            height: 50px;
+            float: left;
+            vertical-align: middle;
+            outline: none;
+            border:none;
+            font-size:18px;
+            line-height:50px;
+            padding:4px;
+        }
+        .search_item .search_btn{
+            float: left;
+            width: 90px;
+            height: 50px;
+            line-height:50px;
+            font-size:24px;
+            color:blue;
+            text-align: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="mapContent" id="map"></div>
+    <div class="search_item">
+        <input type="text" id="search_input" class="search_input" >
+        <div class="search_btn" onclick="search()">搜索</div>
+    </div>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=hVgRqOldDDcPXskjwqDW562pYnSBwW9l"></script>
+    <script >
+
+        // 百度地图API功能
+        var map = new BMap.Map("map");
+        map.centerAndZoom("北京",12);
+        map.enableScrollWheelZoom();   //启用滚轮放大缩小，默认禁用
+        map.enableContinuousZoom();    //启用地图惯性拖拽，默认禁用
+
+        function search(){
+            var keyword = document.getElementById("search_input").value;
+            var local = new BMap.LocalSearch(map, {
+                renderOptions:{map: map,panel:"aaa"}
+            });
+            local.search(keyword);
+            local.setInfoHtmlSetCallback(function(res){
+                var point = res.point;
+                console.log(res);
+                console.log(point.lng + "," + point.lat);
+                console.log(res.address);
+            });
+        }
+
+
+
+
+    </script>
+
+</body>
+</html>
