@@ -1,8 +1,34 @@
 // 获取url参数
 
-
-
-
+function getQueryStr(str) {
+    var LocString = String(window.document.location.href);
+    var rs = new RegExp("(^|)" + str + "=([^&]*)(&|$)", "gi").exec(LocString), tmp;
+    if (tmp = rs) {
+        return tmp[2];
+    }
+    return "";
+}
+// 获取url参数
+function getValue(obj) {
+    var str = decodeURI(window.location.href);
+    var str1 = str.split("?")[1];
+    if (str1) {
+        str2 = str1.split("&");
+        var jsons = {};
+        for (var i = 0; i < str2.length; i++) {
+            var keys = str2[i].split("=")[0];
+            var value = str2[i].split("=")[1];
+            jsons[keys] = value;
+        }
+        if (jsons[obj]) {
+            return jsons[obj];
+        } else {
+            return "";
+        }
+    } else {
+        return "";
+    }
+}
 
 
 /**防止sql注入**/
@@ -122,4 +148,26 @@ function getLocalStorage(key) {
         return o.value
     } else return null;
 };
+
+// 判断是否为金额
+function isMoney(){
+
+
+}
+// 判断是否为邮箱
+function isEmail(email){
+    var reg = new RegExp("^[a-z0-9]+([._\\-]*[a-z0-9])*@([a-z0-9]+[-a-z0-9]*[a-z0-9]+.){1,63}[a-z0-9]+$"); //正则表达式
+    return reg.test(email);
+}
+
+// 判断是否为身份证
+function isSelfCard(){
+
+}
+// 隐藏手机号中间四位
+function hidePhone(phone){
+    return phone.substr(0,3)+ '****'+ phone.substr(7);
+}
+
+
 
