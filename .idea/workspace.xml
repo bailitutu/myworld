@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896d839c-c472-408f-a90b-709f94fd9eed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/other/面试题/重排和重绘.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/other/面试题/forEach-map-filter.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/js/common/common.js" afterPath="$PROJECT_DIR$/js/common/common.js" />
-      <change beforePath="$PROJECT_DIR$/other/常用cmd命令/index.js" afterPath="$PROJECT_DIR$/other/常用cmd命令/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -138,7 +136,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="重排和重绘.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="重排和重绘.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/other/面试题/重排和重绘.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="481">
@@ -150,11 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="深拷贝和浅拷贝.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/other/面试题/深拷贝和浅拷贝.js">
+      <file leaf-file-name="forEach-map-filter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/other/面试题/forEach-map-filter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="64" column="20" lean-forward="true" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+            <state relative-caret-position="600">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -205,6 +203,7 @@
         <option value="$PROJECT_DIR$/other/常用cmd命令/index.js" />
         <option value="$PROJECT_DIR$/js/common/common.js" />
         <option value="$PROJECT_DIR$/other/面试题/重排和重绘.js" />
+        <option value="$PROJECT_DIR$/other/面试题/forEach-map-filter.js" />
       </list>
     </option>
   </component>
@@ -339,7 +338,7 @@
       <workItem from="1550820957892" duration="746000" />
       <workItem from="1551064710445" duration="1008000" />
       <workItem from="1551335545042" duration="5892000" />
-      <workItem from="1551406763838" duration="3326000" />
+      <workItem from="1551406763838" duration="4552000" />
     </task>
     <task id="LOCAL-00001" summary="完善js生成图片验证码">
       <created>1551065152091</created>
@@ -355,16 +354,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551341007140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="补充了一些内容">
+      <created>1551410542895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551410542895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17633000" />
+    <option name="totallyTimeSpent" value="18859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19589257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19589257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -395,14 +402,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完善js生成图片验证码" />
     <MESSAGE value="完善一些面试常见题" />
-    <option name="LAST_COMMIT_MESSAGE" value="完善一些面试常见题" />
+    <MESSAGE value="补充了一些内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="补充了一些内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/mini/common.css" />
     <entry file="file://$PROJECT_DIR$/css/mobile/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -792,6 +799,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/面试题/forEach-map-filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
