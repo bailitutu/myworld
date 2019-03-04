@@ -170,4 +170,27 @@ function hidePhone(phone){
 }
 
 
+// 获取cookies
+function getCookies(key){
+    var arr, reg = new RegExp("(^| )" + key + "=([^;]*)(;|$)");
+    if (arr = document.cookie.match(reg)) return unescape(arr[2]);
+    else return null;
+}
 
+
+// 设置cookies
+function setCookies(key,value) {
+    var Days = 30;
+    var exp = new Date();
+    exp.setTime(exp.getTime() + 30 * 60 * 1000);
+    document.cookie = key + "=" + escape(value) + ";expires=" + exp.toGMTString();
+}
+
+
+// 清空cookies
+function clearCookies(key) {
+    var exp = new Date();
+    exp.setTime(exp.getTime() - 1);
+    var cval = getCookie(key);
+    if (cval != null) document.cookie = key + "=" + cval + ";expires=" + exp.toGMTString();
+}
