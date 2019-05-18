@@ -1,0 +1,71 @@
+ //1.sass 变量声明使用的是 '$' 符号
+$highlight-color: #F90;
+
+
+// 2.默认变量值; 使用sass的!default标签可以实现:如果这个变量被声明赋值了，那就用它声明的值，否则就用这个默认值。
+$fancybox-width: 400px !default;
+.fancybox {
+	width: $fancybox-width;
+}
+
+//3.嵌套导入;
+
+//blue-theme.scss:
+aside {
+  background: blue;
+  color: white;
+}
+
+//sass允许@import命令写在css规则内
+.blue-theme { @import "blue-theme" }
+
+//生成的结果跟你直接在.blue-theme选择器内写_blue-theme.scss文件的内容完全一样。
+
+.blue-theme {
+  aside {
+    background: blue;
+    color: #fff;
+  }
+}
+
+
+// 4.混合器： 使用@mixin标识符定义 使用@include 使用
+
+@mixin rounded-corners {
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+ul.plain {
+  color: #444;
+  @include no-bullets;
+}
+
+// 得到：
+
+ul.plain {
+  color: #444;
+   -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+// 4.1 给混合器传参;
+@mixin link-colors($normal, $hover, $visited) {
+  color: $normal;
+  &:hover { color: $hover; }
+  &:visited { color: $visited; }
+}
+
+
+// 4.2 给混合器默认参数值;
+
+@mixin link-colors($normal,$hover: $normal,$visited: $normal)
+{
+  color: $normal;
+  &:hover { color: $hover; }
+  &:visited { color: $visited; }
+}
+
+
+//未完待续。。。
